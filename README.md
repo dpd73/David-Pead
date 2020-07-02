@@ -2,23 +2,23 @@
 
 Professional developer since June 2014 following a Computer Science BSc (Hons).
 
-# Experience
+## Experience
 
-## Primary Languages
+### Primary Languages
 Java, Javascript, SQL
-### Secondary
+#### Secondary
 Scala, bash, Python, Perl, C#
 
-## Databases
+### Databases
 MySQL, Postgres, Cassandra, JCR Jackrabbit
 
-## AWS
+### AWS
 EC2, S3, SQS, RDS (Aurora), Redshift, Lambda, API Gateway
 
-## CI, deployments, VCS, tooling
+### CI, deployments, VCS, tooling
 Jenkins, Travis, Bamboo, Ansible, Git, Docker, Maven, node/npm/etc, Swagger, Postman/Newman
 
-## Frameworks/CMS
+### Frameworks/CMS
 Spring Boot, React, Angular, NestJS, ExpressJS, JavaEE, JSF, AEM, Magnolioa
 
 # Applications
