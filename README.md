@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/dpd73/dpd73.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Professional developer since June 2014 following a Computer Science BSc (Hons).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experience
 
-### Markdown
+## Primary Languages
+Java, Javascript, SQL
+### Secondary
+Scala, bash, Python, Perl, C#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Databases
+MySQL, Postgres, Cassandra, JCR Jackrabbit
 
-```markdown
-Syntax highlighted code block
+## AWS
+EC2, S3, SQS, RDS (Aurora), Redshift, Lambda, API Gateway
 
-# Header 1
-## Header 2
-### Header 3
+## CI, deployments, VCS, tooling
+Jenkins, Travis, Bamboo, Ansible, Git, Docker, Maven, node/npm/etc, Swagger, Postman/Newman
 
-- Bulleted
-- List
+## Frameworks/CMS
+Spring Boot, React, Angular, NestJS, ExpressJS, JavaEE, JSF, AEM, Magnolioa
 
-1. Numbered
-2. List
+# Applications
+Worked maintaining two SAAS platforms.
 
-**Bold** and _Italic_ and `Code` text
+* Previous using monolithic batched processes, scraping large multi-nationals and analysing their web estates. Millions of pages. In one of 3 Agile dev teams. Migrating to micro-service powered front-end and streaming back-end. Headless JS scraping.
+* Currently working in single small team, owning the process throughout (DevOps), migrating another monolith to micro-service architecture for a research funding & news provider.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dpd73/dpd73.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+#### Extensive previous experience within graphic arts / publishing / design.
+Utilising Adobe Creative Suite, variable data print, PDF workflows
